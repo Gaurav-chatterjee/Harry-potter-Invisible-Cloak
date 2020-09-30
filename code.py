@@ -68,7 +68,7 @@ while(cap.isOpened()):
     out.write(finalOutput)
     cv2.imshow("magic",finalOutput)
     cv2.waitKey(1)
-
+#Releasing the camera & destroying current window
 cap.release()
 out.release()
 cv2.destroyAllWindows()
