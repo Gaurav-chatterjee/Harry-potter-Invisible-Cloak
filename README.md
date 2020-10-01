@@ -1,4 +1,4 @@
-# Harry-potter-Invisible-Cloak
+# Harry-potter- (THE-Invisible-Cloak)
 
 Hello World, we have covered 4 blogs together. Thankyou so much for the support. Today let’s learn something interesting,
 lets do some magic using computer vision. I hope you all know about Harry Potter’s ‘invisible cloak’, 
